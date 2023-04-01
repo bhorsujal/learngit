@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-	int a, b;
-	cin >> a;
-	cin >> b;
+	int c, d;
+	cin >> c;
+	cin >> d;
 	
-	cout << "The diff is : " << (a-b) << endl;
+	cout << "The diff is : " << (c-d) << endl;
 	return 0;
 }
